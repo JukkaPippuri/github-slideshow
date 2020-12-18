@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Tähän tulee tekstiä
+Teksti muutettu!
 Use the left arrow to go back!
